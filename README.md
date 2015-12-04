@@ -21,3 +21,4 @@ To switch back to the master branch, execute this command:
 ```bash
 $ git checkout master
 ```
+
